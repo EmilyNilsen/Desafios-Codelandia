@@ -10,4 +10,4 @@
 - Google Fonts
 -  
 ## 💻 Projeto
-O desafio foi criar um interface de um blog, de forma responsiva.
+O desafio foi criar uma interface de um blog, de forma responsiva.
