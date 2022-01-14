@@ -1,5 +1,7 @@
 # Desafio Codelândia
 
+##Esse projeto tem como finalidade treinar o básico de HTML, CSS E JS.
+
 ## 🚀 Tecnologias usadas :
 - HTML
 - CSS
@@ -8,7 +10,7 @@
 
 ## 📚 Bibliotecas
 - Google Fonts
--  
+
 ## 💻 Projeto
 O desafio foi criar uma interface de um blog, de forma responsiva.
 
