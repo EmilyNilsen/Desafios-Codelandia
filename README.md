@@ -12,8 +12,9 @@
 - Google Fonts
 
 ## 💻 Projeto
-![alt text](https://github.com/EmilyNilsen/Desafios-Codelandia/master/Images/WhatsApp Image 2022-01-14 at 16.36.31.jpeg)
-![alt text](https://github.com/EmilyNilsen/Desafios-Codelandia/master/Images/WhatsApp Image 2022-01-14 at 16.37.08.jpeg)
+<p>
+<img src='Images\WhatsApp Image 2022-01-14 at 16.36.31.jpeg'/>
+</p>
 O desafio foi criar uma interface de um blog, de forma responsiva.
 
 ##Responsável pelo desafio Iuri Silva, https://lnkd.in/dqcmzQnt
